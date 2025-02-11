@@ -28,7 +28,7 @@ const Hero = () => {
 
           <p className="text-center  md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Javascript | TypeScript | React | Node Js | Next Js | C++</p>
           <div className="flex justify-center flex-wrap gap-2">
-          <a href="#about"><MagicButton title="Show my work" icon={<FaArrowRightFromBracket/>} position="right"/></a>
+          <a href="https://github.com/Abhijithbineesh"  target="_blank"><MagicButton title="Github" icon={<FaArrowRightFromBracket/>} position="right"/></a>
           <a href="https://drive.google.com/file/d/1aj_5hcUjX4_qIRFpiI3BbkGBW8E_OhHH/view?usp=drive_link" target="_blank"><MagicButton title="Resume" icon={<FaArrowRightFromBracket/>} position="right"/></a>
           </div>
           
