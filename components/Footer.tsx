@@ -35,7 +35,7 @@ const Footer = () => {
       rel="noopener noreferrer" 
       className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-opacity-75 bg-black-200 rounded-lg border-black-300"
     >
-      <img src={profile.img} alt={profile.id} width={30} height={30} />
+      <img src={profile.img} alt="required image" width={30} height={30} />
     </a>
   ))}
 </div>
