@@ -69,15 +69,16 @@ export const gridItems = [
 ];
 
 export const projects = [
-  {
+
+    {
     id: 1,
-    title: "E Commerce Store for a Perfume Store",
-    des: "A full-stack eCommerce platform for perfumes built using the MERN stack (MongoDB, Express.js, React.js, Node.js). ",
-    img: "/1.png",
-    iconLists: ["/re.svg", "/tail.svg"],
-    link: "github.com/Abhijithbineesh/perfumeecom",
-  },
-  {
+    title: "Easy-Pdf AI : AI-Powered PDF Summarization",
+    des: "Developed a full-stack application that utilizes AI to summarize PDF documents, providing users with concise and relevant information.",
+    img: "/easy-pdf.png",
+    iconLists: ["/re.svg", "/tail.svg","/next.svg","/ts.svg"],
+    link: "easy-pdf-psi.vercel.app/",
+},
+ {
     id: 2,
     title: "Freelance - Bamboo product Store",
     des: "Developed a frontend website for a bamboo product store with a WhatsApp button for direct customer inquiries.",
@@ -86,14 +87,26 @@ export const projects = [
     link: "vedakala.netlify.app/",
 },
 
+  
   {
     id: 3,
-    title: "Youtube Clone",
-    des: "Made a Clone application of Youtube video platform",
-    img: "/3.png",
-    iconLists: ["/re.svg"],
-    link: "github.com/Abhijithbineesh/YoutubeClone",
+    title: "Home Chef - Recipe App",
+     des: "Developed a recipe application that suggests Kerala-style dishes based on ingredients available in the user's kitchen. Features include ingredient-based recipe search, step-by-step cooking instructions, and alternative ingredient suggestions.",
+    img: "/homechef.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "home-chef-three.vercel.app/",
+},
+{
+    id: 4,
+    title: "E Commerce Store for a Perfume Store",
+    des: "A full-stack eCommerce platform for perfumes built using the MERN stack (MongoDB, Express.js, React.js, Node.js). ",
+    img: "/1.png",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "github.com/Abhijithbineesh/perfumeecom",
   },
+
+
+
 
   
  

@@ -41,7 +41,7 @@ const Hero = () => {
 
                 <div className="flex justify-center flex-wrap gap-2">
           <a href="https://github.com/Abhijithbineesh"  target="_blank"><MagicButton title="Github" icon={<FaArrowRightFromBracket/>} position="right"/></a>
-          <a href="https://drive.google.com/file/d/1aj_5hcUjX4_qIRFpiI3BbkGBW8E_OhHH/view?usp=drive_link" target="_blank"><MagicButton title="Resume" icon={<FaArrowRightFromBracket/>} position="right"/></a>
+          <a href="https://drive.google.com/file/d/1RC6wEp91CQRo9UX0jnM0Ts8oSJZ1R5XL/view?usp=sharing" target="_blank"><MagicButton title="Resume" icon={<FaArrowRightFromBracket/>} position="right"/></a>
           </div>
 
                
